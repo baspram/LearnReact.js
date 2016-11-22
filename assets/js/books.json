@@ -1,0 +1,110 @@
+[
+	{
+		"id" : 0,
+		"title" : "Modern Romance",
+		"author" : "Aziz Ansari, Eric Klinenberg",
+		"rating" : "5",
+		"ratingCount" : "5",
+		"summary" : "A hilarious, thoughtful, and in-depth exploration of the pleasures and perils of modern romance from one of this generation’s sharpest comedic voices At some point, every one of us embarks on a journey to find love. We meet people, date, get into and out of relationships, all with the hope of finding someone with whom we share a deep connection. This seems standard now, but it’s wildly different from what people did even just decades ago. Single people today have more romantic options than at any point in human history. With technology, our abilities to connect with and sort through these options are staggering. So why are so many people frustrated? Some of our problems are unique to our time. “Why did this guy just text me an emoji of a pizza?” “Should I go out with this girl even though she listed Combos as one of her favorite snack foods? Combos?!” “My girlfriend just got a message from some dude named Nathan. Who’s Nathan? Did he just send her a photo of his penis? Should I check just to be sure?” But the transformation of our romantic lives can’t be explained by technology alone. In a short period of time, the whole culture of finding love has changed dramatically. A few decades ago, people would find a decent person who lived in their neighborhood. Their families would meet and, after deciding neither party seemed like a murderer, they would get married and soon have a kid, all by the time they were twenty-four. Today, people marry later than ever and spend years of their lives on a quest to find the perfect person, a soul mate.For years, Aziz Ansari has been aiming his comic insight at modern romance, but for Modern Romance, the book, he decided he needed to take things to another level. He teamed up with NYU sociologist Eric Klinenberg and designed a massive research project, including hundreds of interviews and focus groups conducted everywhere from Tokyo to Buenos Aires to Wichita. They analyzed behavioral data and surveys and created their own online research forum on Reddit, which drew thousands of messages. They enlisted the world’s leading social scientists, including Andrew Cherlin, Eli Finkel, Helen Fisher, Sheena Iyengar, Barry Schwartz, Sherry Turkle, and Robb Willer. The result is unlike any social science or humor book we’ve seen before. In Modern Romance, Ansari combines his irreverent humor with cutting-edge social science to give us an unforgettable tour of our new romantic world. ",
+		"cover" : "modern-romance.jpg"
+	},
+	{
+		"id" : 1,
+		"title" : "Beneath the Surface: Killer Whales, SeaWorld, and the Truth Beyond Blackfish",
+		"author" : "John Hargrove, Howard Chua-Eoan",
+		"rating" : "4",
+		"ratingCount" : "5",
+		"summary" : "*Now a New York Times Best Seller* Over the course of two decades, John Hargrove worked with 20 different whales on two continents and at two of SeaWorld's U.S. facilities. For Hargrove, becoming an orca trainer fulfilled a childhood dream. However, as his experience with the whales deepened, Hargrove came to doubt that their needs could ever be met in captivity. When two fellow trainers were killed by orcas in marine parks, Hargrove decided that SeaWorld's wildly popular programs were both detrimental to the whales and ultimately unsafe for trainers. After leaving SeaWorld, Hargrove became one of the stars of the controversial documentary Blackfish. The outcry over the treatment of SeaWorld's orca has now expanded beyond the outlines sketched by the award-winning documentary, with Hargrove contributing his expertise to an advocacy movement that is convincing both federal and state governments to act.In Beneath the Surface, Hargrove paints a compelling portrait of these highly intelligent and social creatures, including his favorite whales Takara and her mother Kasatka, two of the most dominant orcas in SeaWorld. And he includes vibrant descriptions of the lives of orcas in the wild, contrasting their freedom in the ocean with their lives in SeaWorld.Hargrove's journey is one that humanity has just begun to take-toward the realization that the relationship between the human and animal worlds must be radically rethought.",
+		"cover" : "beneath-the-surface.jpg"
+	},
+	{
+		"id" : 2,
+		"title" : "The Dogs I Have Kissed",
+		"author" : "Trista Mateer (Goodreads Author)",
+		"rating" : "4",
+		"ratingCount" : "7",
+		"summary" : "Known for her eponymous blog and her confessional style of writing, this is Trista Mateer's second collection of poetry.",
+		"cover" : "the-dogs-i-have-kissed.jpg"
+	},
+	{
+		"id" : 3,
+		"title" : "The Day the Crayons Came Home",
+		"author" : "Drew Daywalt, Oliver Jeffers (Goodreads Author) (Illustrations)",
+		"rating" : "2",
+		"ratingCount" : "3",
+		"summary" : "The companion to the #1 blockbuster bestseller, The Day the Crayons Quit!I'm not sure what it is about this kid Duncan, but his crayons sure are a colorful bunch of characters! Having soothed the hurt feelings of one group who threatened to quit, Duncan now faces a whole new group of crayons asking to be rescued. From Maroon Crayon, who was lost beneath the sofa cushions and then broken in two after Dad sat on him; to poor Turquoise, whose head is now stuck to one of Duncan's stinky socks after they both ended up in the dryer together; to Pea Green, who knows darn well that no kid likes peas and who ran away—each and every crayon has a woeful tale to tell and a plea to be brought home to the crayon box. Drew Daywalt and Oliver Jeffers have combined to create a companion book every bit as funny and kid-friendly as the #1 bestselling The Day the Crayons Quit. Praise for The Day the Crayons Quit The #1 New York Times bestselling phenomenon — over 80 weeks on the bestseller list! Winner of the E.B. White Read-Aloud Award Amazon’s 2013 Best Picture Book of the Year A Barnes & Noble Best Book of 2013 Goodreads’ 2013 Best Picture Book of the Year  * “Hilarious . . . Move over, Click, Clack, Moo; we’ve got a new contender for the most successful picture-book strike.” –BCCB, starred review “Jeffers . . . elevates crayon drawing to remarkable heights.” –Booklist “Fresh and funny.” –The Wall Street Journal",
+		"cover" : "the-day-the-crayons-came-home.jpg"
+	},
+	{
+		"id" : 4,
+		"title" : "Leaves on the Wind",
+		"author" : "Zack Whedon (Creator), Fábio Moon (Artist), Dan Dos Santos (Cover Artist)",
+		"rating" : "5",
+		"ratingCount" : "1",
+		"summary" : "In the film Serenity, outlaw Malcolm Reynolds and his crew revealed to the entire ’verse the crimes against humanity undertaken by the sinister Alliance government. In this official follow-up, circumstances force the crew to come out of hiding, and one of their own is captured, setting them on another mission of rescue and resistance . . . Collects the six-issue miniseries and the 2012 Free Comic Book Day story. * Buffy’s Season 8 and 9 artist conquers the galaxy! * Zack Whedon returns to Serenity! * The story finally continues after the film! “Serenity: Leaves on the Wind will leave fans cheering.”—Comic Book Resources ",
+		"cover" : "book-cover.jpg"
+	},
+	{
+		"id" : 5,
+		"title" : "The Book of Life",
+		"author" : "Deborah Harkness (Goodreads Author)",
+		"rating" : "3",
+		"ratingCount" : "3",
+		"summary" : "After traveling through time in Shadow of Night, the second book in Deborah Harkness’ enchanting series, historian and witch Diana Bishop and vampire scientist Matthew Clairmont return to the present to face new crises and old enemies. At Matthew’s ancestral home at Sept-Tours, they reunite with the cast of characters from A Discovery of Witches—with one significant exception. But the real threat to their future has yet to be revealed, and when it is, the search for Ashmole 782 and its missing pages takes on even more urgency. In the trilogy’s final volume, Harkness deepens her themes of power and passion, family and caring, past deeds and their present consequences. In ancestral homes and university laboratories, using ancient knowledge and modern science, from the hills of the Auvergne to the palaces of Venice and beyond, the couple at last learn what the witches discovered so many centuries ago.",
+		"cover" : "book-cover.jpg"
+	},
+	{
+		"id" : 6,
+		"title" : "Adulthood Is a Myth",
+		"author" : "Sarah Andersen",
+		"rating" : "4",
+		"ratingCount" : "5",
+		"summary" : "Are you a special snowflake? Do you enjoy networking to advance your career?  Is adulthood an exciting new challenge for which you feel fully prepared?  Ugh. Please go away. This book is for the rest of us. These comic document the wasting of entire beautiful weekends on the internet, the unbearable agony of holding hands on the street with a gorgeous guy, dreaming all day of getting home and back into pajamas, and wondering when, exactly, this adulthood thing begins. In other words, the horrors and awkwardnesses of young modern life.",
+		"cover" : "adulthood-is-a-myth.jpg"
+	},
+	{
+		"id" : 7,
+		"title" : "Superman: American Alien",
+		"author" : "Max Landis, Jock (Illustrator), Francis Manapul (Illustrator), Jae Lee (Illustrator), Nick Dragotta (Illustrator), Tommy Lee Edwards (Illustrator), Joëlle Jones (Illustrator), Ryan Sook (Illustrator) , Jonathan Case (illustrator)",
+		"rating" : "4",
+		"ratingCount" : "2",
+		"summary" : "Screenwriter and Eisner Award nominee Max Landis (Chronicle, American Ultra, ADVENTURES OF SUPERMAN) presents the seven-issue miniseries that chronicles Clark Kent’s development into the archetypal hero he will eventually become. With the tone of each issue ranging from heartwarming and simple, to frighteningly gritty and violent, to sexy, sun-kissed and funny, SUPERMAN: AMERICAN ALIEN is unlike anything you’ve seen before. This new hardcover includes special bonus features.",
+		"cover" : "superman-american-alien.jpg"
+	},
+	{
+		"id" : 8,
+		"title" : "Dog Man",
+		"author" : "Dav Pilkey",
+		"rating" : "4",
+		"ratingCount" : "2",
+		"summary" : "New from the creator of Captain Underpants, it's Dog Man, the #1 New York Times bestselling, crime-biting canine who is part dog, part man, and ALL HERO! George and Harold have created a new hero who digs into deception, claws after crooks, and rolls over robbers. When Greg the police dog and his cop companion are injured on the job, a life-saving surgery changes the course of history, and Dog Man is born. With the head of a dog and the body of a human, this heroic hound has a real nose for justice. But can he resist the call of the wild to answer the call of duty?",
+		"cover" : "dog-man.jpg"
+	},
+	{
+		"id" : 9,
+		"title" : "Snow White: A Graphic Novel",
+		"author" : "Matt Phelan",
+		"rating" : "3",
+		"ratingCount" : "8",
+		"summary" : " The scene: New York City, 1928. The dazzling lights cast shadows that grow ever darker as the glitzy prosperity of the Roaring Twenties screeches to a halt. Enter a cast of familiar characters: a young girl, Samantha White, returning after being sent away by her cruel stepmother, the Queen of the Follies, years earlier; her father, the King of Wall Street, who survives the stock market crash only to suffer a strange and sudden death; seven street urchins, brave protectors for a girl as pure as snow; and a mysterious stock ticker that holds the stepmother in its thrall, churning out ticker tape imprinted with the wicked words ''Another . . . More Beautiful . . . KILL.'' In a moody, cinematic new telling of a beloved fairy tale, extraordinary graphic novelist Matt Phelan captures the essence of classic film noir on the page—and draws a striking distinction between good and evil.",
+		"cover" : "snow-white-a-graphic-novel.jpg"
+	},
+	{
+		"id" : 10,
+		"title" : "Watchmen",
+		"author" : "Alan Moore (Goodreads Author), Dave Gibbons (Illustrator/Letterer), John Higgins (Colorist)",
+		"rating" : "5",
+		"ratingCount" : "10",
+		"summary" : "This Hugo Award-winning graphic novel chronicles the fall from grace of a group of super-heroes plagued by all-too-human failings. Along the way, the concept of the super-hero is dissected as the heroes are stalked by an unknown assassin. One of the most influential graphic novels of all time and a perennial best-seller, Watchmen has been studied on college campuses across the nation and is considered a gateway title, leading readers to other graphic novels such as V for Vendetta, Batman: The Dark Knight Returns and The Sandman series.",
+		"cover" : "watchmen.jpg"
+	},
+	{
+		"id" : 11,
+		"title" : "Batman: The Killing Joke",
+		"author" : "Alan Moore (Goodreads Author), Brian Bolland (Illustrator), Tim Sale (Introduction)",
+		"rating" : "5",
+		"ratingCount" : "5",
+		"summary" : "For the first time the Joker's origin is revealed in this tale of insanity and human perseverance. Looking to prove that any man can be pushed past his breaking point and go mad, the Joker attempts to drive Commissioner Gordon insane. After shooting and permanently paralyzing his daughter Barbara (a.k.a. Batgirl), the Joker kidnaps the commissioner and attacks his mind in hopes of breaking the man.  But refusing to give up, Gordon maintains his sanity with the help of Batman in an effort to beset the madman. ",
+		"cover" : "batman-the-killing-joke.jpg"
+	}
+]
